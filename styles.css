@@ -1,0 +1,24 @@
+body{
+background-color:SkyBlue;
+}
+.image{
+    height:310%;
+    width:30%;
+}
+.link{
+    text-align:center;
+    font-size:30px;
+}
+h1{
+    color:gold;
+}
+.myCarousel{
+    background-size: cover;
+}
+}
+p{
+    font-size:18px;
+}
+footer{
+    text-align: center;
+}

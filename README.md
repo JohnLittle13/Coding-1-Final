@@ -1,2 +1,3 @@
 # Coding-1-Final
  These are the starter files for F2020 Coding 1
+My website is about me, my interests, and favorite things to do. The carousel consists of a picture of me; in the batters box during a baseball game in my Junior year, taking one of my senior photos, and taking pictures with some of my friends. I chose to use the baseball picture for my about me page because baseball has always been a big part of my life. For the background on each site, I chose to use a sky blue color, because it is my favorite color. I hope you enjooyed the website.
